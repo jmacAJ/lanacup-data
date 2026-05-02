@@ -1,0 +1,15 @@
+{
+  "name": "Lanacup World Cup predictor data",
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-02T22:49:34.174945+00:00",
+  "status": "official_2026_groups_fixtures_and_knockout_mapping_loaded",
+  "source_repository": "https://github.com/jmacAJ/lanacup-predictor",
+  "source_commit": "c55c6a85cc690a5c54b99e464e6d8ccd25c26107",
+  "public_data_repository": "https://github.com/jmacAJ/lanacup-data",
+  "files": {
+    "json": "data/latest.json",
+    "versioned_json": "data/worldcup_predictor_data.json",
+    "js_global": "js/lanacup_data.js"
+  },
+  "sha256": "0b94b713e9c5e8b79e89845fa9d5681e6010ca63a4cf727a0aa4720341b97f94"
+}
