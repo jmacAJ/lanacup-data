@@ -1,15 +1,26 @@
 {
-  "name": "Lanacup World Cup predictor data",
-  "schema_version": "1.0.0",
-  "generated_at": "2026-05-02T22:49:34.174945+00:00",
+  "name": "Lanacup public predictor data",
+  "description": "Static public data snapshots for the Lanacup World Cup predictor applet. Contains model output and factual FIFA 2026 schedule fields; no FIFA-hosted image assets are included.",
+  "generated_at": "2026-05-02T23:56:59.951832+00:00",
+  "schema_version": "1.1.0",
+  "source_private_repo_commit": "c55c6a8-plus-official-schedule-refresh",
   "status": "official_2026_groups_fixtures_and_knockout_mapping_loaded",
-  "source_repository": "https://github.com/jmacAJ/lanacup-predictor",
-  "source_commit": "c55c6a85cc690a5c54b99e464e6d8ccd25c26107",
-  "public_data_repository": "https://github.com/jmacAJ/lanacup-data",
+  "sha256": "ee3692aea7b0c2cb885f63db023f07cbceda4d3fc44d8794df57b9b378bddf50",
   "files": {
-    "json": "data/latest.json",
-    "versioned_json": "data/worldcup_predictor_data.json",
-    "js_global": "js/lanacup_data.js"
+    "latest_json": "data/latest.json",
+    "worldcup_predictor_data_json": "data/worldcup_predictor_data.json",
+    "js_bundle": "js/lanacup_data.js"
   },
-  "sha256": "0b94b713e9c5e8b79e89845fa9d5681e6010ca63a4cf727a0aa4720341b97f94"
+  "raw_urls": {
+    "latest_json": "https://raw.githubusercontent.com/jmacAJ/lanacup-data/main/data/latest.json",
+    "js_bundle": "https://raw.githubusercontent.com/jmacAJ/lanacup-data/main/js/lanacup_data.js",
+    "manifest": "https://raw.githubusercontent.com/jmacAJ/lanacup-data/main/manifest.json"
+  },
+  "asset_policy": "Open country flags/emoji only; no FIFA logos, tournament marks, team crests, mascot, trophy imagery or hotlinked FIFA flag assets.",
+  "fixture_source_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures?country=US&wtw-filter=ALL",
+  "counts": {
+    "teams": 48,
+    "group_fixtures": 72,
+    "schedule": 104
+  }
 }
