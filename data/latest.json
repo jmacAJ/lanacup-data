@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T23:56:59.951832+00:00",
+  "generated_at": "2026-05-03T23:52:54.433485+00:00",
   "metadata": {
     "status": "official_2026_groups_fixtures_and_knockout_mapping_loaded",
     "data_cutoff": "2026-03-31",
@@ -23,8 +23,8 @@
         "is_host": 1,
         "fifa_ranking": 15,
         "world_cup_participations": 17,
-        "model_elo": 1865.0477458912,
-        "model_rank": 19,
+        "model_elo": 1821.3617335674,
+        "model_rank": 27,
         "model_confederation": "CONCACAF"
       },
       {
@@ -35,8 +35,8 @@
         "is_host": 0,
         "fifa_ranking": 60,
         "world_cup_participations": 3,
-        "model_elo": 1639.8379571157,
-        "model_rank": 78,
+        "model_elo": 1691.0407025023,
+        "model_rank": 77,
         "model_confederation": "CAF"
       },
       {
@@ -47,8 +47,8 @@
         "is_host": 0,
         "fifa_ranking": 25,
         "world_cup_participations": 10,
-        "model_elo": 1820.4128933966,
-        "model_rank": 27,
+        "model_elo": 1820.9150393242,
+        "model_rank": 28,
         "model_confederation": "AFC"
       },
       {
@@ -59,8 +59,8 @@
         "is_host": 0,
         "fifa_ranking": 41,
         "world_cup_participations": 1,
-        "model_elo": 1729.6178478496,
-        "model_rank": 52,
+        "model_elo": 1788.012523143,
+        "model_rank": 41,
         "model_confederation": "UEFA"
       },
       {
@@ -71,8 +71,8 @@
         "is_host": 1,
         "fifa_ranking": 30,
         "world_cup_participations": 2,
-        "model_elo": 1825.2243758201,
-        "model_rank": 26,
+        "model_elo": 1787.3741941,
+        "model_rank": 43,
         "model_confederation": "CONCACAF"
       },
       {
@@ -83,8 +83,8 @@
         "is_host": 0,
         "fifa_ranking": 65,
         "world_cup_participations": 1,
-        "model_elo": 1633.0697379164,
-        "model_rank": 82,
+        "model_elo": 1723.9684446612,
+        "model_rank": 65,
         "model_confederation": "UEFA"
       },
       {
@@ -95,8 +95,8 @@
         "is_host": 0,
         "fifa_ranking": 55,
         "world_cup_participations": 1,
-        "model_elo": 1587.6216383776,
-        "model_rank": 98,
+        "model_elo": 1679.8790581466,
+        "model_rank": 81,
         "model_confederation": "AFC"
       },
       {
@@ -107,8 +107,8 @@
         "is_host": 0,
         "fifa_ranking": 19,
         "world_cup_participations": 12,
-        "model_elo": 1883.495788994,
-        "model_rank": 16,
+        "model_elo": 1884.7470565478,
+        "model_rank": 14,
         "model_confederation": "UEFA"
       },
       {
@@ -119,8 +119,8 @@
         "is_host": 0,
         "fifa_ranking": 6,
         "world_cup_participations": 22,
-        "model_elo": 1985.9703085002,
-        "model_rank": 5,
+        "model_elo": 1947.2382974987,
+        "model_rank": 6,
         "model_confederation": "CONMEBOL"
       },
       {
@@ -131,8 +131,8 @@
         "is_host": 0,
         "fifa_ranking": 8,
         "world_cup_participations": 6,
-        "model_elo": 1915.1892269406,
-        "model_rank": 12,
+        "model_elo": 1857.8504646322,
+        "model_rank": 20,
         "model_confederation": "CAF"
       },
       {
@@ -143,8 +143,8 @@
         "is_host": 0,
         "fifa_ranking": 83,
         "world_cup_participations": 1,
-        "model_elo": 1657.8932137717,
-        "model_rank": 73,
+        "model_elo": 1695.1242384963,
+        "model_rank": 74,
         "model_confederation": "CONCACAF"
       },
       {
@@ -155,8 +155,8 @@
         "is_host": 0,
         "fifa_ranking": 43,
         "world_cup_participations": 7,
-        "model_elo": 1774.6375069105,
-        "model_rank": 35,
+        "model_elo": 1816.6481316402,
+        "model_rank": 30,
         "model_confederation": "UEFA"
       },
       {
@@ -167,8 +167,8 @@
         "is_host": 1,
         "fifa_ranking": 16,
         "world_cup_participations": 11,
-        "model_elo": 1799.9537876932,
-        "model_rank": 31,
+        "model_elo": 1785.6231406077,
+        "model_rank": 44,
         "model_confederation": "CONCACAF"
       },
       {
@@ -179,8 +179,8 @@
         "is_host": 0,
         "fifa_ranking": 40,
         "world_cup_participations": 8,
-        "model_elo": 1846.450137311,
-        "model_rank": 24,
+        "model_elo": 1841.4282315982,
+        "model_rank": 22,
         "model_confederation": "CONMEBOL"
       },
       {
@@ -191,8 +191,8 @@
         "is_host": 0,
         "fifa_ranking": 27,
         "world_cup_participations": 6,
-        "model_elo": 1858.2806259928,
-        "model_rank": 20,
+        "model_elo": 1839.9071419202,
+        "model_rank": 23,
         "model_confederation": "AFC"
       },
       {
@@ -203,8 +203,8 @@
         "is_host": 0,
         "fifa_ranking": 22,
         "world_cup_participations": 2,
-        "model_elo": 1874.0979941581,
-        "model_rank": 17,
+        "model_elo": 1869.8199398156,
+        "model_rank": 19,
         "model_confederation": "UEFA"
       },
       {
@@ -215,7 +215,7 @@
         "is_host": 0,
         "fifa_ranking": 10,
         "world_cup_participations": 10,
-        "model_elo": 1942.6997297398,
+        "model_elo": 1933.6656869007,
         "model_rank": 9,
         "model_confederation": "UEFA"
       },
@@ -227,8 +227,8 @@
         "is_host": 0,
         "fifa_ranking": 82,
         "world_cup_participations": 0,
-        "model_elo": 1610.60352011,
-        "model_rank": 89,
+        "model_elo": 1660.3815818366,
+        "model_rank": 87,
         "model_confederation": "CONCACAF"
       },
       {
@@ -239,8 +239,8 @@
         "is_host": 0,
         "fifa_ranking": 34,
         "world_cup_participations": 3,
-        "model_elo": 1756.7178540369,
-        "model_rank": 45,
+        "model_elo": 1757.8405977504,
+        "model_rank": 53,
         "model_confederation": "CAF"
       },
       {
@@ -251,8 +251,8 @@
         "is_host": 0,
         "fifa_ranking": 23,
         "world_cup_participations": 4,
-        "model_elo": 1936.8884502763,
-        "model_rank": 10,
+        "model_elo": 1902.9628124632,
+        "model_rank": 11,
         "model_confederation": "CONMEBOL"
       },
       {
@@ -263,8 +263,8 @@
         "is_host": 0,
         "fifa_ranking": 7,
         "world_cup_participations": 10,
-        "model_elo": 1958.6284349896,
-        "model_rank": 8,
+        "model_elo": 1943.7509257396,
+        "model_rank": 7,
         "model_confederation": "UEFA"
       },
       {
@@ -275,8 +275,8 @@
         "is_host": 0,
         "fifa_ranking": 18,
         "world_cup_participations": 7,
-        "model_elo": 1929.7126863597,
-        "model_rank": 11,
+        "model_elo": 1881.0989912766,
+        "model_rank": 15,
         "model_confederation": "AFC"
       },
       {
@@ -287,8 +287,8 @@
         "is_host": 0,
         "fifa_ranking": 38,
         "world_cup_participations": 12,
-        "model_elo": 1731.5736122608,
-        "model_rank": 49,
+        "model_elo": 1788.9146649889,
+        "model_rank": 40,
         "model_confederation": "UEFA"
       },
       {
@@ -299,8 +299,8 @@
         "is_host": 0,
         "fifa_ranking": 44,
         "world_cup_participations": 6,
-        "model_elo": 1721.2663567817,
-        "model_rank": 56,
+        "model_elo": 1740.6627528183,
+        "model_rank": 59,
         "model_confederation": "CAF"
       },
       {
@@ -311,8 +311,8 @@
         "is_host": 0,
         "fifa_ranking": 9,
         "world_cup_participations": 13,
-        "model_elo": 1873.0213984446,
-        "model_rank": 18,
+        "model_elo": 1892.957739901,
+        "model_rank": 13,
         "model_confederation": "UEFA"
       },
       {
@@ -323,8 +323,8 @@
         "is_host": 0,
         "fifa_ranking": 29,
         "world_cup_participations": 3,
-        "model_elo": 1757.2487355821,
-        "model_rank": 44,
+        "model_elo": 1759.1633697843,
+        "model_rank": 52,
         "model_confederation": "CAF"
       },
       {
@@ -335,7 +335,7 @@
         "is_host": 0,
         "fifa_ranking": 21,
         "world_cup_participations": 6,
-        "model_elo": 1840.4691119235,
+        "model_elo": 1832.4418542952,
         "model_rank": 25,
         "model_confederation": "AFC"
       },
@@ -347,8 +347,8 @@
         "is_host": 0,
         "fifa_ranking": 85,
         "world_cup_participations": 2,
-        "model_elo": 1773.7045500217,
-        "model_rank": 36,
+        "model_elo": 1723.7403685131,
+        "model_rank": 66,
         "model_confederation": "OFC"
       },
       {
@@ -359,7 +359,7 @@
         "is_host": 0,
         "fifa_ranking": 2,
         "world_cup_participations": 16,
-        "model_elo": 2117.7971823613,
+        "model_elo": 2040.4076676087,
         "model_rank": 1,
         "model_confederation": "UEFA"
       },
@@ -371,8 +371,8 @@
         "is_host": 0,
         "fifa_ranking": 69,
         "world_cup_participations": 0,
-        "model_elo": 1638.6760412126,
-        "model_rank": 80,
+        "model_elo": 1678.9807016023,
+        "model_rank": 82,
         "model_confederation": "CAF"
       },
       {
@@ -383,8 +383,8 @@
         "is_host": 0,
         "fifa_ranking": 61,
         "world_cup_participations": 6,
-        "model_elo": 1673.5209142306,
-        "model_rank": 68,
+        "model_elo": 1727.7864036488,
+        "model_rank": 63,
         "model_confederation": "AFC"
       },
       {
@@ -395,8 +395,8 @@
         "is_host": 0,
         "fifa_ranking": 17,
         "world_cup_participations": 14,
-        "model_elo": 1903.1829657587,
-        "model_rank": 14,
+        "model_elo": 1895.3711413336,
+        "model_rank": 12,
         "model_confederation": "CONMEBOL"
       },
       {
@@ -407,7 +407,7 @@
         "is_host": 0,
         "fifa_ranking": 1,
         "world_cup_participations": 16,
-        "model_elo": 2049.0280848526,
+        "model_elo": 2000.2435562431,
         "model_rank": 3,
         "model_confederation": "UEFA"
       },
@@ -419,8 +419,8 @@
         "is_host": 0,
         "fifa_ranking": 14,
         "world_cup_participations": 3,
-        "model_elo": 1850.6379470051,
-        "model_rank": 22,
+        "model_elo": 1818.1402609004,
+        "model_rank": 29,
         "model_confederation": "CAF"
       },
       {
@@ -431,8 +431,8 @@
         "is_host": 0,
         "fifa_ranking": 57,
         "world_cup_participations": 1,
-        "model_elo": 1710.157441766,
-        "model_rank": 59,
+        "model_elo": 1745.0823403025,
+        "model_rank": 57,
         "model_confederation": "AFC"
       },
       {
@@ -443,8 +443,8 @@
         "is_host": 0,
         "fifa_ranking": 31,
         "world_cup_participations": 3,
-        "model_elo": 1886.2181700814,
-        "model_rank": 15,
+        "model_elo": 1873.8460541362,
+        "model_rank": 17,
         "model_confederation": "UEFA"
       },
       {
@@ -455,7 +455,7 @@
         "is_host": 0,
         "fifa_ranking": 3,
         "world_cup_participations": 18,
-        "model_elo": 2098.3373477223,
+        "model_elo": 2014.2088250544,
         "model_rank": 2,
         "model_confederation": "CONMEBOL"
       },
@@ -467,8 +467,8 @@
         "is_host": 0,
         "fifa_ranking": 28,
         "world_cup_participations": 4,
-        "model_elo": 1795.6593226721,
-        "model_rank": 32,
+        "model_elo": 1781.7356652712,
+        "model_rank": 46,
         "model_confederation": "CAF"
       },
       {
@@ -479,8 +479,8 @@
         "is_host": 0,
         "fifa_ranking": 24,
         "world_cup_participations": 7,
-        "model_elo": 1816.5531439238,
-        "model_rank": 28,
+        "model_elo": 1834.8286558065,
+        "model_rank": 24,
         "model_confederation": "UEFA"
       },
       {
@@ -491,7 +491,7 @@
         "is_host": 0,
         "fifa_ranking": 63,
         "world_cup_participations": 0,
-        "model_elo": 1741.6893468858,
+        "model_elo": 1766.8214874476,
         "model_rank": 48,
         "model_confederation": "AFC"
       },
@@ -503,8 +503,8 @@
         "is_host": 0,
         "fifa_ranking": 5,
         "world_cup_participations": 8,
-        "model_elo": 1970.2505102909,
-        "model_rank": 7,
+        "model_elo": 1951.7735662958,
+        "model_rank": 5,
         "model_confederation": "UEFA"
       },
       {
@@ -515,8 +515,8 @@
         "is_host": 0,
         "fifa_ranking": 46,
         "world_cup_participations": 0,
-        "model_elo": 1729.88794451,
-        "model_rank": 51,
+        "model_elo": 1737.2325462147,
+        "model_rank": 61,
         "model_confederation": "CAF"
       },
       {
@@ -527,8 +527,8 @@
         "is_host": 0,
         "fifa_ranking": 50,
         "world_cup_participations": 0,
-        "model_elo": 1791.5585308288,
-        "model_rank": 33,
+        "model_elo": 1797.587734242,
+        "model_rank": 36,
         "model_confederation": "AFC"
       },
       {
@@ -539,8 +539,8 @@
         "is_host": 0,
         "fifa_ranking": 13,
         "world_cup_participations": 6,
-        "model_elo": 1980.0020948943,
-        "model_rank": 6,
+        "model_elo": 1934.2387020821,
+        "model_rank": 8,
         "model_confederation": "CONMEBOL"
       },
       {
@@ -551,7 +551,7 @@
         "is_host": 0,
         "fifa_ranking": 4,
         "world_cup_participations": 16,
-        "model_elo": 2019.9141183326,
+        "model_elo": 1982.339157406,
         "model_rank": 4,
         "model_confederation": "UEFA"
       },
@@ -563,8 +563,8 @@
         "is_host": 0,
         "fifa_ranking": 11,
         "world_cup_participations": 6,
-        "model_elo": 1912.1822754737,
-        "model_rank": 13,
+        "model_elo": 1909.6791833909,
+        "model_rank": 10,
         "model_confederation": "UEFA"
       },
       {
@@ -575,8 +575,8 @@
         "is_host": 0,
         "fifa_ranking": 74,
         "world_cup_participations": 4,
-        "model_elo": 1624.7327219456,
-        "model_rank": 86,
+        "model_elo": 1682.8976201723,
+        "model_rank": 79,
         "model_confederation": "CAF"
       },
       {
@@ -587,8 +587,8 @@
         "is_host": 0,
         "fifa_ranking": 33,
         "world_cup_participations": 1,
-        "model_elo": 1772.2558635204,
-        "model_rank": 37,
+        "model_elo": 1764.9204836917,
+        "model_rank": 51,
         "model_confederation": "CONCACAF"
       }
     ],
@@ -3945,350 +3945,314 @@
     "top_ratings": [
       {
         "team": "Spain",
-        "elo": 2117.7971823613,
+        "elo": 2040.4076676087,
         "rank": 1,
         "confederation": "UEFA"
       },
       {
         "team": "Argentina",
-        "elo": 2098.3373477223,
+        "elo": 2014.2088250544,
         "rank": 2,
         "confederation": "CONMEBOL"
       },
       {
         "team": "France",
-        "elo": 2049.0280848526,
+        "elo": 2000.2435562431,
         "rank": 3,
         "confederation": "UEFA"
       },
       {
         "team": "England",
-        "elo": 2019.9141183326,
+        "elo": 1982.339157406,
         "rank": 4,
         "confederation": "UEFA"
       },
       {
-        "team": "Brazil",
-        "elo": 1985.9703085002,
+        "team": "Portugal",
+        "elo": 1951.7735662958,
         "rank": 5,
-        "confederation": "CONMEBOL"
+        "confederation": "UEFA"
       },
       {
-        "team": "Colombia",
-        "elo": 1980.0020948943,
+        "team": "Brazil",
+        "elo": 1947.2382974987,
         "rank": 6,
         "confederation": "CONMEBOL"
       },
       {
-        "team": "Portugal",
-        "elo": 1970.2505102909,
+        "team": "Netherlands",
+        "elo": 1943.7509257396,
         "rank": 7,
         "confederation": "UEFA"
       },
       {
-        "team": "Netherlands",
-        "elo": 1958.6284349896,
+        "team": "Colombia",
+        "elo": 1934.2387020821,
         "rank": 8,
-        "confederation": "UEFA"
+        "confederation": "CONMEBOL"
       },
       {
         "team": "Germany",
-        "elo": 1942.6997297398,
+        "elo": 1933.6656869007,
         "rank": 9,
         "confederation": "UEFA"
       },
       {
-        "team": "Ecuador",
-        "elo": 1936.8884502763,
+        "team": "Croatia",
+        "elo": 1909.6791833909,
         "rank": 10,
+        "confederation": "UEFA"
+      },
+      {
+        "team": "Ecuador",
+        "elo": 1902.9628124632,
+        "rank": 11,
         "confederation": "CONMEBOL"
       },
       {
-        "team": "Japan",
-        "elo": 1929.7126863597,
-        "rank": 11,
-        "confederation": "AFC"
-      },
-      {
-        "team": "Morocco",
-        "elo": 1915.1892269406,
+        "team": "Uruguay",
+        "elo": 1895.3711413336,
         "rank": 12,
-        "confederation": "CAF"
+        "confederation": "CONMEBOL"
       },
       {
-        "team": "Croatia",
-        "elo": 1912.1822754737,
+        "team": "Belgium",
+        "elo": 1892.957739901,
         "rank": 13,
         "confederation": "UEFA"
       },
       {
-        "team": "Uruguay",
-        "elo": 1903.1829657587,
+        "team": "Switzerland",
+        "elo": 1884.7470565478,
         "rank": 14,
-        "confederation": "CONMEBOL"
-      },
-      {
-        "team": "Norway",
-        "elo": 1886.2181700814,
-        "rank": 15,
         "confederation": "UEFA"
       },
       {
-        "team": "Switzerland",
-        "elo": 1883.495788994,
+        "team": "Japan",
+        "elo": 1881.0989912766,
+        "rank": 15,
+        "confederation": "AFC"
+      },
+      {
+        "team": "Italy",
+        "elo": 1876.5712957698,
         "rank": 16,
         "confederation": "UEFA"
       },
       {
-        "team": "Turkey",
-        "elo": 1874.0979941581,
+        "team": "Norway",
+        "elo": 1873.8460541362,
         "rank": 17,
         "confederation": "UEFA"
       },
       {
-        "team": "Belgium",
-        "elo": 1873.0213984446,
+        "team": "Denmark",
+        "elo": 1871.2176665752,
         "rank": 18,
         "confederation": "UEFA"
       },
       {
-        "team": "Mexico",
-        "elo": 1865.0477458912,
+        "team": "Turkey",
+        "elo": 1869.8199398156,
         "rank": 19,
-        "confederation": "CONCACAF"
+        "confederation": "UEFA"
       },
       {
-        "team": "Australia",
-        "elo": 1858.2806259928,
+        "team": "Morocco",
+        "elo": 1857.8504646322,
         "rank": 20,
-        "confederation": "AFC"
+        "confederation": "CAF"
       },
       {
-        "team": "Denmark",
-        "elo": 1854.4313187173,
+        "team": "Yugoslavia",
+        "elo": 1842.3309225459,
         "rank": 21,
         "confederation": "UEFA"
       },
       {
-        "team": "Senegal",
-        "elo": 1850.6379470051,
-        "rank": 22,
-        "confederation": "CAF"
-      },
-      {
-        "team": "Italy",
-        "elo": 1849.5048628502,
-        "rank": 23,
-        "confederation": "UEFA"
-      },
-      {
         "team": "Paraguay",
-        "elo": 1846.450137311,
-        "rank": 24,
+        "elo": 1841.4282315982,
+        "rank": 22,
         "confederation": "CONMEBOL"
       },
       {
-        "team": "Iran",
-        "elo": 1840.4691119235,
-        "rank": 25,
-        "confederation": "AFC"
-      },
-      {
-        "team": "Canada",
-        "elo": 1825.2243758201,
-        "rank": 26,
-        "confederation": "CONCACAF"
-      },
-      {
-        "team": "South Korea",
-        "elo": 1820.4128933966,
-        "rank": 27,
+        "team": "Australia",
+        "elo": 1839.9071419202,
+        "rank": 23,
         "confederation": "AFC"
       },
       {
         "team": "Austria",
-        "elo": 1816.5531439238,
-        "rank": 28,
+        "elo": 1834.8286558065,
+        "rank": 24,
         "confederation": "UEFA"
       },
       {
-        "team": "Yugoslavia",
-        "elo": 1814.0447442244,
-        "rank": 29,
-        "confederation": "UEFA"
-      },
-      {
-        "team": "Nigeria",
-        "elo": 1812.9145909101,
-        "rank": 30,
-        "confederation": "CAF"
-      },
-      {
-        "team": "United States",
-        "elo": 1799.9537876932,
-        "rank": 31,
-        "confederation": "CONCACAF"
-      },
-      {
-        "team": "Algeria",
-        "elo": 1795.6593226721,
-        "rank": 32,
-        "confederation": "CAF"
-      },
-      {
-        "team": "Uzbekistan",
-        "elo": 1791.5585308288,
-        "rank": 33,
+        "team": "Iran",
+        "elo": 1832.4418542952,
+        "rank": 25,
         "confederation": "AFC"
       },
       {
         "team": "Russia",
-        "elo": 1786.9293550221,
-        "rank": 34,
+        "elo": 1825.9415521665,
+        "rank": 26,
         "confederation": "UEFA"
       },
       {
-        "team": "Scotland",
-        "elo": 1774.6375069105,
-        "rank": 35,
-        "confederation": "UEFA"
-      },
-      {
-        "team": "New Zealand",
-        "elo": 1773.7045500217,
-        "rank": 36,
-        "confederation": "OFC"
-      },
-      {
-        "team": "Panama",
-        "elo": 1772.2558635204,
-        "rank": 37,
+        "team": "Mexico",
+        "elo": 1821.3617335674,
+        "rank": 27,
         "confederation": "CONCACAF"
       },
       {
-        "team": "Serbia",
-        "elo": 1769.0355374249,
-        "rank": 38,
+        "team": "South Korea",
+        "elo": 1820.9150393242,
+        "rank": 28,
+        "confederation": "AFC"
+      },
+      {
+        "team": "Senegal",
+        "elo": 1818.1402609004,
+        "rank": 29,
+        "confederation": "CAF"
+      },
+      {
+        "team": "Scotland",
+        "elo": 1816.6481316402,
+        "rank": 30,
         "confederation": "UEFA"
       },
       {
-        "team": "Jersey",
-        "elo": 1764.2981651193,
-        "rank": 39,
-        "confederation": "UNK"
-      },
-      {
-        "team": "Venezuela",
-        "elo": 1763.8001184123,
-        "rank": 40,
-        "confederation": "CONMEBOL"
+        "team": "Serbia",
+        "elo": 1813.5025438459,
+        "rank": 31,
+        "confederation": "UEFA"
       },
       {
         "team": "Ukraine",
-        "elo": 1762.3510699248,
-        "rank": 41,
+        "elo": 1812.6892605058,
+        "rank": 32,
         "confederation": "UEFA"
       },
       {
         "team": "Czechoslovakia",
-        "elo": 1760.0094438722,
-        "rank": 42,
+        "elo": 1808.462851143,
+        "rank": 33,
         "confederation": "UEFA"
       },
       {
         "team": "Poland",
-        "elo": 1758.8849764184,
-        "rank": 43,
+        "elo": 1806.6123746635,
+        "rank": 34,
         "confederation": "UEFA"
-      },
-      {
-        "team": "Egypt",
-        "elo": 1757.2487355821,
-        "rank": 44,
-        "confederation": "CAF"
-      },
-      {
-        "team": "Ivory Coast",
-        "elo": 1756.7178540369,
-        "rank": 45,
-        "confederation": "CAF"
       },
       {
         "team": "Greece",
-        "elo": 1745.9799646479,
-        "rank": 46,
+        "elo": 1797.7686894587,
+        "rank": 35,
         "confederation": "UEFA"
       },
       {
+        "team": "Uzbekistan",
+        "elo": 1797.587734242,
+        "rank": 36,
+        "confederation": "AFC"
+      },
+      {
+        "team": "Venezuela",
+        "elo": 1796.8267460658,
+        "rank": 37,
+        "confederation": "CONMEBOL"
+      },
+      {
+        "team": "Nigeria",
+        "elo": 1792.7037635387,
+        "rank": 38,
+        "confederation": "CAF"
+      },
+      {
+        "team": "Wales",
+        "elo": 1791.7096688289,
+        "rank": 39,
+        "confederation": "UEFA"
+      },
+      {
+        "team": "Sweden",
+        "elo": 1788.9146649889,
+        "rank": 40,
+        "confederation": "UEFA"
+      },
+      {
+        "team": "Czech Republic",
+        "elo": 1788.012523143,
+        "rank": 41,
+        "confederation": "UEFA"
+      },
+      {
+        "team": "Hungary",
+        "elo": 1787.6793449206,
+        "rank": 42,
+        "confederation": "UEFA"
+      },
+      {
+        "team": "Canada",
+        "elo": 1787.3741941,
+        "rank": 43,
+        "confederation": "CONCACAF"
+      },
+      {
+        "team": "United States",
+        "elo": 1785.6231406077,
+        "rank": 44,
+        "confederation": "CONCACAF"
+      },
+      {
+        "team": "Peru",
+        "elo": 1782.6738044267,
+        "rank": 45,
+        "confederation": "CONMEBOL"
+      },
+      {
+        "team": "Algeria",
+        "elo": 1781.7356652712,
+        "rank": 46,
+        "confederation": "CAF"
+      },
+      {
         "team": "Chile",
-        "elo": 1745.9106801628,
+        "elo": 1780.335641026,
         "rank": 47,
         "confederation": "CONMEBOL"
       },
       {
         "team": "Jordan",
-        "elo": 1741.6893468858,
+        "elo": 1766.8214874476,
         "rank": 48,
         "confederation": "AFC"
       },
       {
-        "team": "Sweden",
-        "elo": 1731.5736122608,
+        "team": "Slovenia",
+        "elo": 1765.8459963241,
         "rank": 49,
         "confederation": "UEFA"
       },
       {
-        "team": "Peru",
-        "elo": 1730.4952326218,
+        "team": "Republic of Ireland",
+        "elo": 1765.6946305576,
         "rank": 50,
-        "confederation": "CONMEBOL"
+        "confederation": "UEFA"
       }
     ],
     "model_comparison": [
-      {
-        "model": "calibrated_logit",
-        "holdout_year": 2014,
-        "label": "2014 World Cup holdout calibrated supervised logit",
-        "n": 64,
-        "accuracy": 0.578125,
-        "log_loss": 0.874327122,
-        "brier": 0.5176613717,
-        "best_accuracy": 0,
-        "best_log_loss": 0,
-        "best_brier": 1
-      },
-      {
-        "model": "poisson_score",
-        "holdout_year": 2014,
-        "label": "2014 World Cup holdout poisson score model",
-        "n": 64,
-        "accuracy": 0.609375,
-        "log_loss": 0.9016756781,
-        "brier": 0.5305316102,
-        "best_accuracy": 1,
-        "best_log_loss": 0,
-        "best_brier": 0
-      },
       {
         "model": "supervised_logit",
         "holdout_year": 2014,
         "label": "2014 World Cup holdout supervised logit",
         "n": 64,
         "accuracy": 0.578125,
-        "log_loss": 0.873301844,
-        "brier": 0.5179075144,
-        "best_accuracy": 0,
-        "best_log_loss": 1,
-        "best_brier": 0
-      },
-      {
-        "model": "calibrated_logit",
-        "holdout_year": 2018,
-        "label": "2018 World Cup holdout calibrated supervised logit",
-        "n": 64,
-        "accuracy": 0.546875,
-        "log_loss": 0.9818106486,
-        "brier": 0.5732509117,
+        "log_loss": 0.8872546026,
+        "brier": 0.528150822,
         "best_accuracy": 0,
         "best_log_loss": 0,
         "best_brier": 0
@@ -4298,22 +4262,10 @@
         "holdout_year": 2018,
         "label": "2018 World Cup holdout",
         "n": 64,
-        "accuracy": 0.578125,
-        "log_loss": 0.9800757352,
-        "brier": 0.5830379495,
+        "accuracy": 0.5625,
+        "log_loss": 0.9891039379,
+        "brier": 0.589581279,
         "best_accuracy": 1,
-        "best_log_loss": 1,
-        "best_brier": 0
-      },
-      {
-        "model": "poisson_score",
-        "holdout_year": 2018,
-        "label": "2018 World Cup holdout poisson score model",
-        "n": 64,
-        "accuracy": 0.53125,
-        "log_loss": 0.9869029782,
-        "brier": 0.5862902075,
-        "best_accuracy": 0,
         "best_log_loss": 0,
         "best_brier": 0
       },
@@ -4322,48 +4274,24 @@
         "holdout_year": 2018,
         "label": "2018 World Cup holdout supervised logit",
         "n": 64,
-        "accuracy": 0.546875,
-        "log_loss": 0.9835341433,
-        "brier": 0.5728403174,
+        "accuracy": 0.5625,
+        "log_loss": 0.9815281188,
+        "brier": 0.5707873977,
         "best_accuracy": 0,
-        "best_log_loss": 0,
+        "best_log_loss": 1,
         "best_brier": 1
-      },
-      {
-        "model": "calibrated_logit",
-        "holdout_year": 2022,
-        "label": "2022 World Cup holdout calibrated supervised logit",
-        "n": 64,
-        "accuracy": 0.515625,
-        "log_loss": 1.1615252066,
-        "brier": 0.6536404262,
-        "best_accuracy": 0,
-        "best_log_loss": 0,
-        "best_brier": 0
       },
       {
         "model": "elo_baseline",
         "holdout_year": 2022,
         "label": "2022 World Cup holdout",
         "n": 64,
-        "accuracy": 0.53125,
-        "log_loss": 1.0563515902,
-        "brier": 0.6205242045,
+        "accuracy": 0.546875,
+        "log_loss": 1.0437128672,
+        "brier": 0.6164041582,
         "best_accuracy": 1,
         "best_log_loss": 1,
         "best_brier": 1
-      },
-      {
-        "model": "poisson_score",
-        "holdout_year": 2022,
-        "label": "2022 World Cup holdout poisson score model",
-        "n": 64,
-        "accuracy": 0.484375,
-        "log_loss": 1.0835897113,
-        "brier": 0.6321064939,
-        "best_accuracy": 0,
-        "best_log_loss": 0,
-        "best_brier": 0
       },
       {
         "model": "supervised_logit",
@@ -4371,8 +4299,8 @@
         "label": "2022 World Cup holdout supervised logit",
         "n": 64,
         "accuracy": 0.515625,
-        "log_loss": 1.1639427834,
-        "brier": 0.655792534,
+        "log_loss": 1.1586897909,
+        "brier": 0.652059235,
         "best_accuracy": 0,
         "best_log_loss": 0,
         "best_brier": 0
@@ -4382,993 +4310,993 @@
       {
         "team_a": "Argentina",
         "team_b": "France",
-        "elo_a": 2098.3373477223,
-        "elo_b": 2049.0280848526,
-        "elo_diff_a_minus_b": 49.3092628697,
-        "p_team_a_win": 44.8097251273,
-        "p_draw": 21.4538449357,
-        "p_team_b_win": 33.7364299369,
+        "elo_a": 2014.2088250544,
+        "elo_b": 2000.2435562431,
+        "elo_diff_a_minus_b": 13.9652688113,
+        "p_team_a_win": 40.1059929275,
+        "p_draw": 22.8859657064,
+        "p_team_b_win": 37.0080413661,
         "model_pick": "Argentina"
       },
       {
         "team_a": "Brazil",
         "team_b": "Argentina",
-        "elo_a": 1985.9703085002,
-        "elo_b": 2098.3373477223,
-        "elo_diff_a_minus_b": -112.3670392221,
-        "p_team_a_win": 27.7428195415,
-        "p_draw": 19.2825183884,
-        "p_team_b_win": 52.9746620701,
+        "elo_a": 1947.2382974987,
+        "elo_b": 2014.2088250544,
+        "elo_diff_a_minus_b": -66.9705275557,
+        "p_team_a_win": 32.0603888124,
+        "p_draw": 20.7990114074,
+        "p_team_b_win": 47.1405997801,
         "model_pick": "Argentina"
       },
       {
         "team_a": "Brazil",
         "team_b": "England",
-        "elo_a": 1985.9703085002,
-        "elo_b": 2019.9141183326,
-        "elo_diff_a_minus_b": -33.9438098324,
-        "p_team_a_win": 35.1766784989,
-        "p_draw": 22.055773245,
-        "p_team_b_win": 42.7675482561,
+        "elo_a": 1947.2382974987,
+        "elo_b": 1982.339157406,
+        "elo_diff_a_minus_b": -35.1008599072,
+        "p_team_a_win": 35.069031921,
+        "p_draw": 22.0093656845,
+        "p_team_b_win": 42.9216023945,
         "model_pick": "England"
       },
       {
         "team_a": "Colombia",
         "team_b": "Portugal",
-        "elo_a": 1980.0020948943,
-        "elo_b": 1970.2505102909,
-        "elo_diff_a_minus_b": 9.7515846034,
-        "p_team_a_win": 39.5452336824,
-        "p_draw": 23.068234046,
-        "p_team_b_win": 37.3865322716,
-        "model_pick": "Colombia"
+        "elo_a": 1934.2387020821,
+        "elo_b": 1951.7735662958,
+        "elo_diff_a_minus_b": -17.5348642137,
+        "p_team_a_win": 36.6850838885,
+        "p_draw": 22.7335486701,
+        "p_team_b_win": 40.5813674414,
+        "model_pick": "Portugal"
       },
       {
         "team_a": "Croatia",
         "team_b": "England",
-        "elo_a": 1912.1822754737,
-        "elo_b": 2019.9141183326,
-        "elo_diff_a_minus_b": -107.7318428589,
-        "p_team_a_win": 28.180094124,
-        "p_draw": 19.4270530757,
-        "p_team_b_win": 52.3928528003,
+        "elo_a": 1909.6791833909,
+        "elo_b": 1982.339157406,
+        "elo_diff_a_minus_b": -72.6599740151,
+        "p_team_a_win": 31.5179433835,
+        "p_draw": 20.596139875,
+        "p_team_b_win": 47.8859167414,
         "model_pick": "England"
       },
       {
         "team_a": "Ecuador",
         "team_b": "Germany",
-        "elo_a": 1936.8884502763,
-        "elo_b": 1942.6997297398,
-        "elo_diff_a_minus_b": -5.8112794635,
-        "p_team_a_win": 37.7376119923,
-        "p_draw": 23.2410089713,
-        "p_team_b_win": 39.0213790364,
+        "elo_a": 1902.9628124632,
+        "elo_b": 1933.6656869007,
+        "elo_diff_a_minus_b": -30.7028744375,
+        "p_team_a_win": 35.4773835017,
+        "p_draw": 22.1867192246,
+        "p_team_b_win": 42.3358972737,
         "model_pick": "Germany"
       },
       {
         "team_a": "France",
         "team_b": "England",
-        "elo_a": 2049.0280848526,
-        "elo_b": 2019.9141183326,
-        "elo_diff_a_minus_b": 29.11396652,
-        "p_team_a_win": 42.1242165992,
-        "p_draw": 22.2514357031,
-        "p_team_b_win": 35.6243476977,
+        "elo_a": 2000.2435562431,
+        "elo_b": 1982.339157406,
+        "elo_diff_a_minus_b": 17.9043988371,
+        "p_team_a_win": 40.6305924682,
+        "p_draw": 22.7178733693,
+        "p_team_b_win": 36.6515341625,
         "model_pick": "France"
       },
       {
         "team_a": "Japan",
         "team_b": "Netherlands",
-        "elo_a": 1929.7126863597,
-        "elo_b": 1958.6284349896,
-        "elo_diff_a_minus_b": -28.9157486299,
-        "p_team_a_win": 35.642659601,
-        "p_draw": 22.2595332237,
-        "p_team_b_win": 42.0978071753,
+        "elo_a": 1881.0989912766,
+        "elo_b": 1943.7509257396,
+        "elo_diff_a_minus_b": -62.6519344629,
+        "p_team_a_win": 32.4715519715,
+        "p_draw": 20.9555908284,
+        "p_team_b_win": 46.5728572001,
         "model_pick": "Netherlands"
       },
       {
         "team_a": "Mexico",
         "team_b": "Croatia",
-        "elo_a": 1865.0477458912,
-        "elo_b": 1912.1822754737,
-        "elo_diff_a_minus_b": -47.1345295825,
-        "p_team_a_win": 33.9415313906,
-        "p_draw": 21.5371768046,
-        "p_team_b_win": 44.5212918048,
+        "elo_a": 1821.3617335674,
+        "elo_b": 1909.6791833909,
+        "elo_diff_a_minus_b": -88.3174498235,
+        "p_team_a_win": 30.0240491775,
+        "p_draw": 20.0572944388,
+        "p_team_b_win": 49.9186563837,
         "model_pick": "Croatia"
       },
       {
         "team_a": "Morocco",
         "team_b": "Brazil",
-        "elo_a": 1915.1892269406,
-        "elo_b": 1985.9703085002,
-        "elo_diff_a_minus_b": -70.7810815596,
-        "p_team_a_win": 31.6971542333,
-        "p_draw": 20.6627114831,
-        "p_team_b_win": 47.6401342835,
+        "elo_a": 1857.8504646322,
+        "elo_b": 1947.2382974987,
+        "elo_diff_a_minus_b": -89.3878328665,
+        "p_team_a_win": 29.9220215749,
+        "p_draw": 20.0214745204,
+        "p_team_b_win": 50.0565039047,
         "model_pick": "Brazil"
       },
       {
         "team_a": "Netherlands",
         "team_b": "Germany",
-        "elo_a": 1958.6284349896,
-        "elo_b": 1942.6997297398,
-        "elo_diff_a_minus_b": 15.9287052498,
-        "p_team_a_win": 40.3674397845,
-        "p_draw": 22.8019051703,
-        "p_team_b_win": 36.8306550452,
+        "elo_a": 1943.7509257396,
+        "elo_b": 1933.6656869007,
+        "elo_diff_a_minus_b": 10.0852388389,
+        "p_team_a_win": 39.5896175405,
+        "p_draw": 23.0537078865,
+        "p_team_b_win": 37.356674573,
         "model_pick": "Netherlands"
       },
       {
         "team_a": "Norway",
         "team_b": "France",
-        "elo_a": 1886.2181700814,
-        "elo_b": 2049.0280848526,
-        "elo_diff_a_minus_b": -162.8099147712,
-        "p_team_a_win": 23.1234581434,
-        "p_draw": 17.845891112,
-        "p_team_b_win": 59.0306507446,
+        "elo_a": 1873.8460541362,
+        "elo_b": 2000.2435562431,
+        "elo_diff_a_minus_b": -126.3975021069,
+        "p_team_a_win": 26.4295322693,
+        "p_draw": 18.8583868632,
+        "p_team_b_win": 54.7120808676,
         "model_pick": "France"
       },
       {
         "team_a": "Portugal",
         "team_b": "Germany",
-        "elo_a": 1970.2505102909,
-        "elo_b": 1942.6997297398,
-        "elo_diff_a_minus_b": 27.5507805511,
-        "p_team_a_win": 41.9159367824,
-        "p_draw": 22.3154398837,
-        "p_team_b_win": 35.768623334,
+        "elo_a": 1951.7735662958,
+        "elo_b": 1933.6656869007,
+        "elo_diff_a_minus_b": 18.1078793951,
+        "p_team_a_win": 40.6576985927,
+        "p_draw": 22.7092501608,
+        "p_team_b_win": 36.6330512465,
         "model_pick": "Portugal"
       },
       {
         "team_a": "Senegal",
         "team_b": "France",
-        "elo_a": 1850.6379470051,
-        "elo_b": 2049.0280848526,
-        "elo_diff_a_minus_b": -198.3901378475,
-        "p_team_a_win": 20.0893802103,
-        "p_draw": 16.9684249662,
-        "p_team_b_win": 62.9421948235,
+        "elo_a": 1818.1402609004,
+        "elo_b": 2000.2435562431,
+        "elo_diff_a_minus_b": -182.1032953427,
+        "p_team_a_win": 21.4505423041,
+        "p_draw": 17.3571946689,
+        "p_team_b_win": 61.192263027,
         "model_pick": "France"
       },
       {
         "team_a": "Spain",
         "team_b": "Argentina",
-        "elo_a": 2117.7971823613,
-        "elo_b": 2098.3373477223,
-        "elo_diff_a_minus_b": 19.4598346391,
-        "p_team_a_win": 40.8378096274,
-        "p_draw": 22.6521045634,
-        "p_team_b_win": 36.5100858092,
+        "elo_a": 2040.4076676087,
+        "elo_b": 2014.2088250544,
+        "elo_diff_a_minus_b": 26.1988425543,
+        "p_team_a_win": 41.7357896195,
+        "p_draw": 22.3710641609,
+        "p_team_b_win": 35.8931462196,
         "model_pick": "Spain"
       },
       {
         "team_a": "Spain",
         "team_b": "England",
-        "elo_a": 2117.7971823613,
-        "elo_b": 2019.9141183326,
-        "elo_diff_a_minus_b": 97.8830640287,
-        "p_team_a_win": 51.1448429965,
-        "p_draw": 19.7416723817,
-        "p_team_b_win": 29.1134846218,
+        "elo_a": 2040.4076676087,
+        "elo_b": 1982.339157406,
+        "elo_diff_a_minus_b": 58.0685102028,
+        "p_team_a_win": 45.9686081566,
+        "p_draw": 21.1242563933,
+        "p_team_b_win": 32.9071354501,
         "model_pick": "Spain"
       },
       {
         "team_a": "Spain",
         "team_b": "France",
-        "elo_a": 2117.7971823613,
-        "elo_b": 2049.0280848526,
-        "elo_diff_a_minus_b": 68.7690975087,
-        "p_team_a_win": 47.3765518506,
-        "p_draw": 20.7344625022,
-        "p_team_b_win": 31.8889856472,
+        "elo_a": 2040.4076676087,
+        "elo_b": 2000.2435562431,
+        "elo_diff_a_minus_b": 40.1641113656,
+        "p_team_a_win": 43.5953236845,
+        "p_draw": 21.8083784096,
+        "p_team_b_win": 34.5962979059,
         "model_pick": "Spain"
       },
       {
         "team_a": "United States",
         "team_b": "Canada",
-        "elo_a": 1799.9537876932,
-        "elo_b": 1825.2243758201,
-        "elo_diff_a_minus_b": -25.2705881269,
-        "p_team_a_win": 35.9785040806,
-        "p_draw": 22.409401759,
-        "p_team_b_win": 41.6120941604,
+        "elo_a": 1785.6231406077,
+        "elo_b": 1787.3741941,
+        "elo_diff_a_minus_b": -1.7510534923,
+        "p_team_a_win": 38.0963099967,
+        "p_draw": 23.4214321102,
+        "p_team_b_win": 38.4822578931,
         "model_pick": "Canada"
       },
       {
         "team_a": "United States",
         "team_b": "Mexico",
-        "elo_a": 1799.9537876932,
-        "elo_b": 1865.0477458912,
-        "elo_diff_a_minus_b": -65.093958198,
-        "p_team_a_win": 32.2391284356,
-        "p_draw": 20.8667734331,
-        "p_team_b_win": 46.8940981313,
+        "elo_a": 1785.6231406077,
+        "elo_b": 1821.3617335674,
+        "elo_diff_a_minus_b": -35.7385929597,
+        "p_team_a_win": 35.0096371719,
+        "p_draw": 21.9838635686,
+        "p_team_b_win": 43.0064992595,
         "model_pick": "Mexico"
       },
       {
         "team_a": "Uruguay",
         "team_b": "Spain",
-        "elo_a": 1903.1829657587,
-        "elo_b": 2117.7971823613,
-        "elo_diff_a_minus_b": -214.6142166027,
-        "p_team_a_win": 18.7841954145,
-        "p_draw": 16.6015796641,
-        "p_team_b_win": 64.6142249214,
+        "elo_a": 1895.3711413336,
+        "elo_b": 2040.4076676087,
+        "elo_diff_a_minus_b": -145.0365262751,
+        "p_team_a_win": 24.7157880175,
+        "p_draw": 18.324763257,
+        "p_team_b_win": 56.9594487255,
         "model_pick": "Spain"
       }
     ],
     "demo_tournament_odds": [
       {
         "team": "Spain",
-        "qualified_pct": 87.7,
-        "round_of_16_pct": 87.7,
-        "quarterfinal_pct": 62.65,
-        "semifinal_pct": 42.2,
-        "final_pct": 28.9,
-        "champion_pct": 21.45
+        "qualified_pct": 78.0,
+        "round_of_16_pct": 78.0,
+        "quarterfinal_pct": 52.6,
+        "semifinal_pct": 35.85,
+        "final_pct": 23.65,
+        "champion_pct": 15.35
       },
       {
         "team": "Argentina",
-        "qualified_pct": 84.45,
-        "round_of_16_pct": 84.45,
-        "quarterfinal_pct": 57.95,
-        "semifinal_pct": 37.7,
-        "final_pct": 24.35,
-        "champion_pct": 18.0
+        "qualified_pct": 76.15,
+        "round_of_16_pct": 76.15,
+        "quarterfinal_pct": 47.25,
+        "semifinal_pct": 28.95,
+        "final_pct": 16.75,
+        "champion_pct": 10.6
       },
       {
         "team": "France",
-        "qualified_pct": 80.3,
-        "round_of_16_pct": 80.3,
-        "quarterfinal_pct": 54.1,
-        "semifinal_pct": 35.65,
-        "final_pct": 17.55,
-        "champion_pct": 11.05
+        "qualified_pct": 75.0,
+        "round_of_16_pct": 75.0,
+        "quarterfinal_pct": 46.3,
+        "semifinal_pct": 28.95,
+        "final_pct": 15.7,
+        "champion_pct": 9.95
       },
       {
         "team": "England",
-        "qualified_pct": 75.25,
-        "round_of_16_pct": 75.25,
-        "quarterfinal_pct": 47.1,
-        "semifinal_pct": 29.1,
-        "final_pct": 12.2,
-        "champion_pct": 7.5
-      },
-      {
-        "team": "Brazil",
-        "qualified_pct": 70.95,
-        "round_of_16_pct": 70.95,
-        "quarterfinal_pct": 42.0,
-        "semifinal_pct": 25.8,
-        "final_pct": 14.6,
-        "champion_pct": 6.2
-      },
-      {
-        "team": "Colombia",
-        "qualified_pct": 68.8,
-        "round_of_16_pct": 68.8,
-        "quarterfinal_pct": 41.7,
-        "semifinal_pct": 25.7,
-        "final_pct": 15.4,
-        "champion_pct": 5.8
+        "qualified_pct": 70.8,
+        "round_of_16_pct": 70.8,
+        "quarterfinal_pct": 43.15,
+        "semifinal_pct": 26.1,
+        "final_pct": 13.35,
+        "champion_pct": 7.75
       },
       {
         "team": "Portugal",
-        "qualified_pct": 66.85,
-        "round_of_16_pct": 66.85,
-        "quarterfinal_pct": 39.5,
-        "semifinal_pct": 23.25,
-        "final_pct": 13.35,
-        "champion_pct": 5.1
+        "qualified_pct": 67.75,
+        "round_of_16_pct": 67.75,
+        "quarterfinal_pct": 39.95,
+        "semifinal_pct": 23.1,
+        "final_pct": 14.05,
+        "champion_pct": 7.0
       },
       {
-        "team": "Netherlands",
-        "qualified_pct": 64.15,
-        "round_of_16_pct": 64.15,
-        "quarterfinal_pct": 37.2,
-        "semifinal_pct": 20.0,
-        "final_pct": 9.8,
-        "champion_pct": 3.95
+        "team": "Brazil",
+        "qualified_pct": 64.5,
+        "round_of_16_pct": 64.5,
+        "quarterfinal_pct": 36.7,
+        "semifinal_pct": 21.85,
+        "final_pct": 13.6,
+        "champion_pct": 6.95
       },
       {
         "team": "Germany",
-        "qualified_pct": 61.6,
-        "round_of_16_pct": 61.6,
-        "quarterfinal_pct": 32.8,
-        "semifinal_pct": 17.15,
-        "final_pct": 9.45,
-        "champion_pct": 2.75
+        "qualified_pct": 62.25,
+        "round_of_16_pct": 62.25,
+        "quarterfinal_pct": 35.95,
+        "semifinal_pct": 19.5,
+        "final_pct": 10.2,
+        "champion_pct": 5.8
+      },
+      {
+        "team": "Netherlands",
+        "qualified_pct": 67.2,
+        "round_of_16_pct": 67.2,
+        "quarterfinal_pct": 38.55,
+        "semifinal_pct": 22.1,
+        "final_pct": 11.8,
+        "champion_pct": 5.6
+      },
+      {
+        "team": "Colombia",
+        "qualified_pct": 63.65,
+        "round_of_16_pct": 63.65,
+        "quarterfinal_pct": 34.05,
+        "semifinal_pct": 18.85,
+        "final_pct": 9.6,
+        "champion_pct": 4.65
       },
       {
         "team": "Ecuador",
-        "qualified_pct": 60.1,
-        "round_of_16_pct": 60.1,
-        "quarterfinal_pct": 32.05,
-        "semifinal_pct": 17.3,
-        "final_pct": 8.4,
-        "champion_pct": 2.6
-      },
-      {
-        "team": "Japan",
-        "qualified_pct": 59.5,
-        "round_of_16_pct": 59.5,
-        "quarterfinal_pct": 31.35,
-        "semifinal_pct": 15.85,
-        "final_pct": 7.05,
-        "champion_pct": 2.55
-      },
-      {
-        "team": "Morocco",
-        "qualified_pct": 55.6,
-        "round_of_16_pct": 55.6,
-        "quarterfinal_pct": 27.55,
-        "semifinal_pct": 12.5,
-        "final_pct": 5.65,
-        "champion_pct": 1.9
-      },
-      {
-        "team": "Uruguay",
-        "qualified_pct": 49.45,
-        "round_of_16_pct": 49.45,
-        "quarterfinal_pct": 22.65,
-        "semifinal_pct": 8.55,
-        "final_pct": 2.7,
-        "champion_pct": 1.15
+        "qualified_pct": 57.15,
+        "round_of_16_pct": 57.15,
+        "quarterfinal_pct": 30.2,
+        "semifinal_pct": 14.7,
+        "final_pct": 6.9,
+        "champion_pct": 3.0
       },
       {
         "team": "Croatia",
-        "qualified_pct": 55.65,
-        "round_of_16_pct": 55.65,
-        "quarterfinal_pct": 23.7,
-        "semifinal_pct": 9.45,
-        "final_pct": 2.35,
-        "champion_pct": 1.0
+        "qualified_pct": 55.35,
+        "round_of_16_pct": 55.35,
+        "quarterfinal_pct": 28.0,
+        "semifinal_pct": 14.1,
+        "final_pct": 6.9,
+        "champion_pct": 2.4
       },
       {
-        "team": "Switzerland",
-        "qualified_pct": 44.5,
-        "round_of_16_pct": 44.5,
-        "quarterfinal_pct": 17.4,
-        "semifinal_pct": 4.95,
-        "final_pct": 2.05,
-        "champion_pct": 1.0
-      },
-      {
-        "team": "Mexico",
-        "qualified_pct": 41.5,
-        "round_of_16_pct": 41.5,
-        "quarterfinal_pct": 17.0,
-        "semifinal_pct": 6.35,
-        "final_pct": 1.95,
-        "champion_pct": 0.85
+        "team": "Uruguay",
+        "qualified_pct": 54.15,
+        "round_of_16_pct": 54.15,
+        "quarterfinal_pct": 27.35,
+        "semifinal_pct": 13.55,
+        "final_pct": 6.1,
+        "champion_pct": 2.2
       },
       {
         "team": "Italy",
-        "qualified_pct": 38.9,
-        "round_of_16_pct": 38.9,
-        "quarterfinal_pct": 15.8,
-        "semifinal_pct": 6.05,
-        "final_pct": 2.35,
-        "champion_pct": 0.8
+        "qualified_pct": 45.65,
+        "round_of_16_pct": 45.65,
+        "quarterfinal_pct": 20.85,
+        "semifinal_pct": 7.7,
+        "final_pct": 3.7,
+        "champion_pct": 1.85
+      },
+      {
+        "team": "Belgium",
+        "qualified_pct": 49.65,
+        "round_of_16_pct": 49.65,
+        "quarterfinal_pct": 24.6,
+        "semifinal_pct": 11.35,
+        "final_pct": 4.45,
+        "champion_pct": 1.65
+      },
+      {
+        "team": "Norway",
+        "qualified_pct": 45.95,
+        "round_of_16_pct": 45.95,
+        "quarterfinal_pct": 18.95,
+        "semifinal_pct": 7.4,
+        "final_pct": 3.05,
+        "champion_pct": 1.6
+      },
+      {
+        "team": "Switzerland",
+        "qualified_pct": 50.1,
+        "round_of_16_pct": 50.1,
+        "quarterfinal_pct": 22.55,
+        "semifinal_pct": 9.9,
+        "final_pct": 3.7,
+        "champion_pct": 1.55
+      },
+      {
+        "team": "Japan",
+        "qualified_pct": 47.95,
+        "round_of_16_pct": 47.95,
+        "quarterfinal_pct": 20.55,
+        "semifinal_pct": 7.6,
+        "final_pct": 3.2,
+        "champion_pct": 1.3
+      },
+      {
+        "team": "Paraguay",
+        "qualified_pct": 40.2,
+        "round_of_16_pct": 40.2,
+        "quarterfinal_pct": 17.35,
+        "semifinal_pct": 7.8,
+        "final_pct": 3.65,
+        "champion_pct": 1.25
+      },
+      {
+        "team": "Australia",
+        "qualified_pct": 41.05,
+        "round_of_16_pct": 41.05,
+        "quarterfinal_pct": 18.25,
+        "semifinal_pct": 7.9,
+        "final_pct": 3.3,
+        "champion_pct": 1.25
       },
       {
         "team": "Turkey",
-        "qualified_pct": 40.6,
-        "round_of_16_pct": 40.6,
-        "quarterfinal_pct": 15.05,
-        "semifinal_pct": 3.55,
-        "final_pct": 1.4,
+        "qualified_pct": 42.15,
+        "round_of_16_pct": 42.15,
+        "quarterfinal_pct": 19.55,
+        "semifinal_pct": 8.25,
+        "final_pct": 3.05,
+        "champion_pct": 1.05
+      },
+      {
+        "team": "Yugoslavia",
+        "qualified_pct": 42.3,
+        "round_of_16_pct": 42.3,
+        "quarterfinal_pct": 18.4,
+        "semifinal_pct": 7.2,
+        "final_pct": 2.9,
+        "champion_pct": 0.95
+      },
+      {
+        "team": "Denmark",
+        "qualified_pct": 43.8,
+        "round_of_16_pct": 43.8,
+        "quarterfinal_pct": 17.3,
+        "semifinal_pct": 6.25,
+        "final_pct": 2.35,
+        "champion_pct": 0.95
+      },
+      {
+        "team": "Russia",
+        "qualified_pct": 36.4,
+        "round_of_16_pct": 36.4,
+        "quarterfinal_pct": 14.6,
+        "semifinal_pct": 5.95,
+        "final_pct": 1.85,
         "champion_pct": 0.75
       },
       {
         "team": "Iran",
-        "qualified_pct": 36.95,
-        "round_of_16_pct": 36.95,
-        "quarterfinal_pct": 14.35,
+        "qualified_pct": 36.25,
+        "round_of_16_pct": 36.25,
+        "quarterfinal_pct": 15.5,
         "semifinal_pct": 5.7,
-        "final_pct": 2.2,
-        "champion_pct": 0.7
-      },
-      {
-        "team": "Belgium",
-        "qualified_pct": 43.15,
-        "round_of_16_pct": 43.15,
-        "quarterfinal_pct": 14.9,
-        "semifinal_pct": 4.4,
-        "final_pct": 1.55,
-        "champion_pct": 0.7
-      },
-      {
-        "team": "Senegal",
-        "qualified_pct": 39.75,
-        "round_of_16_pct": 39.75,
-        "quarterfinal_pct": 16.65,
-        "semifinal_pct": 5.4,
         "final_pct": 2.1,
-        "champion_pct": 0.65
-      },
-      {
-        "team": "Australia",
-        "qualified_pct": 38.9,
-        "round_of_16_pct": 38.9,
-        "quarterfinal_pct": 14.5,
-        "semifinal_pct": 4.8,
-        "final_pct": 1.5,
-        "champion_pct": 0.65
-      },
-      {
-        "team": "Denmark",
-        "qualified_pct": 40.05,
-        "round_of_16_pct": 40.05,
-        "quarterfinal_pct": 16.25,
-        "semifinal_pct": 5.8,
-        "final_pct": 2.35,
-        "champion_pct": 0.6
-      },
-      {
-        "team": "Paraguay",
-        "qualified_pct": 37.3,
-        "round_of_16_pct": 37.3,
-        "quarterfinal_pct": 15.05,
-        "semifinal_pct": 5.85,
-        "final_pct": 2.25,
-        "champion_pct": 0.55
-      },
-      {
-        "team": "South Korea",
-        "qualified_pct": 31.95,
-        "round_of_16_pct": 31.95,
-        "quarterfinal_pct": 12.4,
-        "semifinal_pct": 4.9,
-        "final_pct": 2.0,
-        "champion_pct": 0.35
-      },
-      {
-        "team": "Canada",
-        "qualified_pct": 34.15,
-        "round_of_16_pct": 34.15,
-        "quarterfinal_pct": 13.25,
-        "semifinal_pct": 4.7,
-        "final_pct": 1.7,
-        "champion_pct": 0.25
-      },
-      {
-        "team": "Norway",
-        "qualified_pct": 44.55,
-        "round_of_16_pct": 44.55,
-        "quarterfinal_pct": 17.45,
-        "semifinal_pct": 4.25,
-        "final_pct": 1.55,
-        "champion_pct": 0.25
-      },
-      {
-        "team": "Nigeria",
-        "qualified_pct": 28.75,
-        "round_of_16_pct": 28.75,
-        "quarterfinal_pct": 10.35,
-        "semifinal_pct": 3.1,
-        "final_pct": 0.7,
-        "champion_pct": 0.25
-      },
-      {
-        "team": "Yugoslavia",
-        "qualified_pct": 30.2,
-        "round_of_16_pct": 30.2,
-        "quarterfinal_pct": 10.6,
-        "semifinal_pct": 3.0,
-        "final_pct": 0.65,
-        "champion_pct": 0.2
-      },
-      {
-        "team": "United States",
-        "qualified_pct": 27.85,
-        "round_of_16_pct": 27.85,
-        "quarterfinal_pct": 7.0,
-        "semifinal_pct": 1.45,
-        "final_pct": 0.25,
-        "champion_pct": 0.2
+        "champion_pct": 0.7
       },
       {
         "team": "Austria",
-        "qualified_pct": 33.4,
-        "round_of_16_pct": 33.4,
-        "quarterfinal_pct": 12.1,
-        "semifinal_pct": 4.05,
-        "final_pct": 1.35,
-        "champion_pct": 0.15
+        "qualified_pct": 37.85,
+        "round_of_16_pct": 37.85,
+        "quarterfinal_pct": 15.1,
+        "semifinal_pct": 5.9,
+        "final_pct": 2.65,
+        "champion_pct": 0.65
       },
       {
-        "team": "Algeria",
-        "qualified_pct": 27.2,
-        "round_of_16_pct": 27.2,
-        "quarterfinal_pct": 7.6,
-        "semifinal_pct": 1.5,
-        "final_pct": 0.35,
-        "champion_pct": 0.1
+        "team": "Senegal",
+        "qualified_pct": 34.25,
+        "round_of_16_pct": 34.25,
+        "quarterfinal_pct": 13.9,
+        "semifinal_pct": 4.75,
+        "final_pct": 1.6,
+        "champion_pct": 0.6
+      },
+      {
+        "team": "Serbia",
+        "qualified_pct": 32.1,
+        "round_of_16_pct": 32.1,
+        "quarterfinal_pct": 11.55,
+        "semifinal_pct": 2.95,
+        "final_pct": 1.25,
+        "champion_pct": 0.55
+      },
+      {
+        "team": "Scotland",
+        "qualified_pct": 32.75,
+        "round_of_16_pct": 32.75,
+        "quarterfinal_pct": 11.8,
+        "semifinal_pct": 3.75,
+        "final_pct": 1.15,
+        "champion_pct": 0.55
+      },
+      {
+        "team": "Morocco",
+        "qualified_pct": 45.3,
+        "round_of_16_pct": 45.3,
+        "quarterfinal_pct": 18.15,
+        "semifinal_pct": 6.95,
+        "final_pct": 1.95,
+        "champion_pct": 0.45
+      },
+      {
+        "team": "South Korea",
+        "qualified_pct": 35.8,
+        "round_of_16_pct": 35.8,
+        "quarterfinal_pct": 14.0,
+        "semifinal_pct": 5.3,
+        "final_pct": 1.6,
+        "champion_pct": 0.45
+      },
+      {
+        "team": "Mexico",
+        "qualified_pct": 38.15,
+        "round_of_16_pct": 38.15,
+        "quarterfinal_pct": 16.05,
+        "semifinal_pct": 6.5,
+        "final_pct": 2.8,
+        "champion_pct": 0.4
+      },
+      {
+        "team": "Ukraine",
+        "qualified_pct": 30.4,
+        "round_of_16_pct": 30.4,
+        "quarterfinal_pct": 10.95,
+        "semifinal_pct": 3.3,
+        "final_pct": 1.1,
+        "champion_pct": 0.25
       }
     ],
     "worldcup_2026_tournament_odds": [
       {
         "team": "Spain",
-        "qualified_pct": 97.52,
-        "round_of_32_pct": 97.52,
-        "round_of_16_pct": 73.58,
-        "quarterfinal_pct": 55.5,
-        "semifinal_pct": 44.86,
-        "final_pct": 30.38,
-        "champion_pct": 21.14
+        "qualified_pct": 94.64,
+        "round_of_32_pct": 94.64,
+        "round_of_16_pct": 68.46,
+        "quarterfinal_pct": 48.72,
+        "semifinal_pct": 35.84,
+        "final_pct": 24.06,
+        "champion_pct": 15.52
       },
       {
         "team": "Argentina",
-        "qualified_pct": 96.28,
-        "round_of_32_pct": 96.28,
-        "round_of_16_pct": 67.58,
-        "quarterfinal_pct": 53.08,
-        "semifinal_pct": 39.68,
-        "final_pct": 25.7,
-        "champion_pct": 17.04
+        "qualified_pct": 92.36,
+        "round_of_32_pct": 92.36,
+        "round_of_16_pct": 60.3,
+        "quarterfinal_pct": 43.16,
+        "semifinal_pct": 29.2,
+        "final_pct": 18.34,
+        "champion_pct": 11.64
       },
       {
         "team": "France",
-        "qualified_pct": 92.54,
-        "round_of_32_pct": 92.54,
-        "round_of_16_pct": 70.44,
-        "quarterfinal_pct": 51.58,
-        "semifinal_pct": 35.1,
-        "final_pct": 22.54,
-        "champion_pct": 11.42
+        "qualified_pct": 90.7,
+        "round_of_32_pct": 90.7,
+        "round_of_16_pct": 64.8,
+        "quarterfinal_pct": 44.96,
+        "semifinal_pct": 29.24,
+        "final_pct": 18.7,
+        "champion_pct": 10.86
       },
       {
         "team": "England",
-        "qualified_pct": 93.46,
-        "round_of_32_pct": 93.46,
-        "round_of_16_pct": 64.32,
-        "quarterfinal_pct": 43.52,
-        "semifinal_pct": 25.9,
-        "final_pct": 15.34,
-        "champion_pct": 7.74
+        "qualified_pct": 91.08,
+        "round_of_32_pct": 91.08,
+        "round_of_16_pct": 59.34,
+        "quarterfinal_pct": 39.06,
+        "semifinal_pct": 24.1,
+        "final_pct": 14.2,
+        "champion_pct": 8.34
       },
       {
         "team": "Brazil",
-        "qualified_pct": 91.26,
-        "round_of_32_pct": 91.26,
-        "round_of_16_pct": 57.2,
-        "quarterfinal_pct": 34.68,
-        "semifinal_pct": 22.4,
-        "final_pct": 11.68,
-        "champion_pct": 5.52
-      },
-      {
-        "team": "Colombia",
-        "qualified_pct": 87.9,
-        "round_of_32_pct": 87.9,
-        "round_of_16_pct": 56.64,
-        "quarterfinal_pct": 34.4,
-        "semifinal_pct": 18.06,
-        "final_pct": 9.3,
-        "champion_pct": 4.9
+        "qualified_pct": 87.84,
+        "round_of_32_pct": 87.84,
+        "round_of_16_pct": 53.42,
+        "quarterfinal_pct": 33.3,
+        "semifinal_pct": 20.74,
+        "final_pct": 11.28,
+        "champion_pct": 5.76
       },
       {
         "team": "Portugal",
-        "qualified_pct": 86.8,
-        "round_of_32_pct": 86.8,
-        "round_of_16_pct": 54.32,
-        "quarterfinal_pct": 31.52,
-        "semifinal_pct": 17.02,
-        "final_pct": 8.66,
-        "champion_pct": 4.18
+        "qualified_pct": 85.18,
+        "round_of_32_pct": 85.18,
+        "round_of_16_pct": 53.22,
+        "quarterfinal_pct": 32.48,
+        "semifinal_pct": 19.06,
+        "final_pct": 10.46,
+        "champion_pct": 5.66
       },
       {
         "team": "Netherlands",
-        "qualified_pct": 89.2,
-        "round_of_32_pct": 89.2,
-        "round_of_16_pct": 50.84,
-        "quarterfinal_pct": 28.28,
-        "semifinal_pct": 17.14,
-        "final_pct": 8.68,
-        "champion_pct": 3.94
+        "qualified_pct": 86.6,
+        "round_of_32_pct": 86.6,
+        "round_of_16_pct": 51.4,
+        "quarterfinal_pct": 30.48,
+        "semifinal_pct": 18.58,
+        "final_pct": 9.56,
+        "champion_pct": 4.82
       },
       {
         "team": "Germany",
-        "qualified_pct": 89.72,
-        "round_of_32_pct": 89.72,
-        "round_of_16_pct": 54.14,
-        "quarterfinal_pct": 31.38,
-        "semifinal_pct": 16.02,
-        "final_pct": 7.96,
-        "champion_pct": 3.48
+        "qualified_pct": 88.52,
+        "round_of_32_pct": 88.52,
+        "round_of_16_pct": 55.2,
+        "quarterfinal_pct": 33.68,
+        "semifinal_pct": 18.0,
+        "final_pct": 9.7,
+        "champion_pct": 4.74
       },
       {
-        "team": "Ecuador",
-        "qualified_pct": 89.66,
-        "round_of_32_pct": 89.66,
-        "round_of_16_pct": 54.02,
-        "quarterfinal_pct": 30.9,
-        "semifinal_pct": 15.02,
-        "final_pct": 7.06,
-        "champion_pct": 2.62
-      },
-      {
-        "team": "Japan",
-        "qualified_pct": 85.66,
-        "round_of_32_pct": 85.66,
-        "round_of_16_pct": 45.8,
-        "quarterfinal_pct": 23.64,
-        "semifinal_pct": 13.82,
-        "final_pct": 6.14,
-        "champion_pct": 2.24
-      },
-      {
-        "team": "Morocco",
-        "qualified_pct": 83.76,
-        "round_of_32_pct": 83.76,
-        "round_of_16_pct": 44.4,
-        "quarterfinal_pct": 22.44,
-        "semifinal_pct": 12.1,
-        "final_pct": 5.1,
-        "champion_pct": 1.84
+        "team": "Colombia",
+        "qualified_pct": 83.22,
+        "round_of_32_pct": 83.22,
+        "round_of_16_pct": 50.38,
+        "quarterfinal_pct": 29.46,
+        "semifinal_pct": 16.3,
+        "final_pct": 9.12,
+        "champion_pct": 4.32
       },
       {
         "team": "Croatia",
-        "qualified_pct": 84.68,
-        "round_of_32_pct": 84.68,
-        "round_of_16_pct": 45.4,
-        "quarterfinal_pct": 22.26,
-        "semifinal_pct": 10.44,
-        "final_pct": 4.72,
-        "champion_pct": 1.64
+        "qualified_pct": 83.6,
+        "round_of_32_pct": 83.6,
+        "round_of_16_pct": 45.2,
+        "quarterfinal_pct": 25.22,
+        "semifinal_pct": 12.66,
+        "final_pct": 6.1,
+        "champion_pct": 2.82
       },
       {
-        "team": "Uruguay",
-        "qualified_pct": 85.6,
-        "round_of_32_pct": 85.6,
-        "round_of_16_pct": 39.14,
-        "quarterfinal_pct": 20.16,
-        "semifinal_pct": 10.32,
-        "final_pct": 3.52,
-        "champion_pct": 1.64
-      },
-      {
-        "team": "Switzerland",
-        "qualified_pct": 92.1,
-        "round_of_32_pct": 92.1,
-        "round_of_16_pct": 55.38,
-        "quarterfinal_pct": 23.48,
-        "semifinal_pct": 9.7,
-        "final_pct": 3.9,
-        "champion_pct": 1.44
+        "team": "Ecuador",
+        "qualified_pct": 84.04,
+        "round_of_32_pct": 84.04,
+        "round_of_16_pct": 49.42,
+        "quarterfinal_pct": 26.98,
+        "semifinal_pct": 13.54,
+        "final_pct": 6.84,
+        "champion_pct": 2.64
       },
       {
         "team": "Belgium",
-        "qualified_pct": 80.06,
-        "round_of_32_pct": 80.06,
-        "round_of_16_pct": 45.8,
-        "quarterfinal_pct": 22.32,
-        "semifinal_pct": 7.64,
-        "final_pct": 2.92,
-        "champion_pct": 1.18
+        "qualified_pct": 85.24,
+        "round_of_32_pct": 85.24,
+        "round_of_16_pct": 51.36,
+        "quarterfinal_pct": 28.46,
+        "semifinal_pct": 12.64,
+        "final_pct": 5.7,
+        "champion_pct": 2.58
+      },
+      {
+        "team": "Switzerland",
+        "qualified_pct": 87.88,
+        "round_of_32_pct": 87.88,
+        "round_of_16_pct": 54.52,
+        "quarterfinal_pct": 25.72,
+        "semifinal_pct": 12.46,
+        "final_pct": 5.86,
+        "champion_pct": 2.32
+      },
+      {
+        "team": "Uruguay",
+        "qualified_pct": 82.66,
+        "round_of_32_pct": 82.66,
+        "round_of_16_pct": 42.52,
+        "quarterfinal_pct": 23.64,
+        "semifinal_pct": 12.1,
+        "final_pct": 5.0,
+        "champion_pct": 2.26
+      },
+      {
+        "team": "Japan",
+        "qualified_pct": 77.12,
+        "round_of_32_pct": 77.12,
+        "round_of_16_pct": 39.86,
+        "quarterfinal_pct": 19.72,
+        "semifinal_pct": 10.12,
+        "final_pct": 4.58,
+        "champion_pct": 1.9
       },
       {
         "team": "Norway",
-        "qualified_pct": 73.68,
-        "round_of_32_pct": 73.68,
-        "round_of_16_pct": 39.18,
-        "quarterfinal_pct": 16.9,
-        "semifinal_pct": 7.14,
-        "final_pct": 3.26,
-        "champion_pct": 1.14
-      },
-      {
-        "team": "Mexico",
-        "qualified_pct": 89.56,
-        "round_of_32_pct": 89.56,
-        "round_of_16_pct": 53.12,
-        "quarterfinal_pct": 23.1,
+        "qualified_pct": 72.7,
+        "round_of_32_pct": 72.7,
+        "round_of_16_pct": 39.2,
+        "quarterfinal_pct": 18.68,
         "semifinal_pct": 8.22,
-        "final_pct": 2.96,
-        "champion_pct": 0.92
+        "final_pct": 3.96,
+        "champion_pct": 1.6
       },
       {
         "team": "Turkey",
-        "qualified_pct": 74.72,
-        "round_of_32_pct": 74.72,
-        "round_of_16_pct": 42.8,
-        "quarterfinal_pct": 22.58,
-        "semifinal_pct": 7.76,
-        "final_pct": 2.82,
-        "champion_pct": 0.9
+        "qualified_pct": 75.58,
+        "round_of_32_pct": 75.58,
+        "round_of_16_pct": 43.46,
+        "quarterfinal_pct": 22.98,
+        "semifinal_pct": 9.72,
+        "final_pct": 3.7,
+        "champion_pct": 1.6
       },
       {
-        "team": "Australia",
-        "qualified_pct": 68.24,
-        "round_of_32_pct": 68.24,
-        "round_of_16_pct": 37.84,
-        "quarterfinal_pct": 18.62,
-        "semifinal_pct": 5.74,
-        "final_pct": 2.06,
-        "champion_pct": 0.8
+        "team": "Morocco",
+        "qualified_pct": 75.4,
+        "round_of_32_pct": 75.4,
+        "round_of_16_pct": 36.86,
+        "quarterfinal_pct": 16.92,
+        "semifinal_pct": 8.32,
+        "final_pct": 3.44,
+        "champion_pct": 1.34
       },
       {
-        "team": "Canada",
-        "qualified_pct": 89.0,
-        "round_of_32_pct": 89.0,
-        "round_of_16_pct": 46.52,
-        "quarterfinal_pct": 17.24,
-        "semifinal_pct": 6.42,
-        "final_pct": 1.98,
-        "champion_pct": 0.72
+        "team": "Mexico",
+        "qualified_pct": 82.6,
+        "round_of_32_pct": 82.6,
+        "round_of_16_pct": 43.36,
+        "quarterfinal_pct": 17.12,
+        "semifinal_pct": 5.84,
+        "final_pct": 2.36,
+        "champion_pct": 0.94
       },
       {
         "team": "Iran",
-        "qualified_pct": 74.94,
-        "round_of_32_pct": 74.94,
-        "round_of_16_pct": 40.02,
-        "quarterfinal_pct": 17.34,
-        "semifinal_pct": 5.34,
-        "final_pct": 1.82,
-        "champion_pct": 0.56
+        "qualified_pct": 74.38,
+        "round_of_32_pct": 74.38,
+        "round_of_16_pct": 39.84,
+        "quarterfinal_pct": 17.76,
+        "semifinal_pct": 6.66,
+        "final_pct": 2.64,
+        "champion_pct": 0.84
       },
       {
-        "team": "Senegal",
-        "qualified_pct": 66.7,
-        "round_of_32_pct": 66.7,
-        "round_of_16_pct": 31.56,
-        "quarterfinal_pct": 12.62,
-        "semifinal_pct": 4.46,
-        "final_pct": 1.78,
-        "champion_pct": 0.52
-      },
-      {
-        "team": "Paraguay",
-        "qualified_pct": 65.94,
-        "round_of_32_pct": 65.94,
-        "round_of_16_pct": 35.54,
-        "quarterfinal_pct": 16.68,
-        "semifinal_pct": 5.28,
-        "final_pct": 1.42,
-        "champion_pct": 0.48
+        "team": "Australia",
+        "qualified_pct": 64.86,
+        "round_of_32_pct": 64.86,
+        "round_of_16_pct": 34.38,
+        "quarterfinal_pct": 16.22,
+        "semifinal_pct": 6.32,
+        "final_pct": 2.26,
+        "champion_pct": 0.84
       },
       {
         "team": "South Korea",
-        "qualified_pct": 78.58,
-        "round_of_32_pct": 78.58,
-        "round_of_16_pct": 41.38,
-        "quarterfinal_pct": 16.64,
-        "semifinal_pct": 5.12,
+        "qualified_pct": 73.02,
+        "round_of_32_pct": 73.02,
+        "round_of_16_pct": 37.36,
+        "quarterfinal_pct": 15.8,
+        "semifinal_pct": 5.82,
+        "final_pct": 2.26,
+        "champion_pct": 0.82
+      },
+      {
+        "team": "Paraguay",
+        "qualified_pct": 66.9,
+        "round_of_32_pct": 66.9,
+        "round_of_16_pct": 34.14,
+        "quarterfinal_pct": 16.54,
+        "semifinal_pct": 6.84,
+        "final_pct": 2.44,
+        "champion_pct": 0.74
+      },
+      {
+        "team": "Scotland",
+        "qualified_pct": 67.14,
+        "round_of_32_pct": 67.14,
+        "round_of_16_pct": 29.42,
+        "quarterfinal_pct": 12.02,
+        "semifinal_pct": 5.24,
+        "final_pct": 2.02,
+        "champion_pct": 0.66
+      },
+      {
+        "team": "Austria",
+        "qualified_pct": 66.98,
+        "round_of_32_pct": 66.98,
+        "round_of_16_pct": 28.16,
+        "quarterfinal_pct": 12.24,
+        "semifinal_pct": 5.74,
+        "final_pct": 2.02,
+        "champion_pct": 0.58
+      },
+      {
+        "team": "Senegal",
+        "qualified_pct": 61.96,
+        "round_of_32_pct": 61.96,
+        "round_of_16_pct": 28.38,
+        "quarterfinal_pct": 11.2,
+        "semifinal_pct": 4.24,
+        "final_pct": 1.36,
+        "champion_pct": 0.48
+      },
+      {
+        "team": "Uzbekistan",
+        "qualified_pct": 56.08,
+        "round_of_32_pct": 56.08,
+        "round_of_16_pct": 23.6,
+        "quarterfinal_pct": 9.16,
+        "semifinal_pct": 3.52,
+        "final_pct": 0.94,
+        "champion_pct": 0.42
+      },
+      {
+        "team": "Czech Republic",
+        "qualified_pct": 70.4,
+        "round_of_32_pct": 70.4,
+        "round_of_16_pct": 33.78,
+        "quarterfinal_pct": 13.1,
+        "semifinal_pct": 4.38,
+        "final_pct": 1.3,
+        "champion_pct": 0.38
+      },
+      {
+        "team": "Canada",
+        "qualified_pct": 79.3,
+        "round_of_32_pct": 79.3,
+        "round_of_16_pct": 37.84,
+        "quarterfinal_pct": 13.68,
+        "semifinal_pct": 4.54,
+        "final_pct": 1.34,
+        "champion_pct": 0.32
+      },
+      {
+        "team": "United States",
+        "qualified_pct": 63.02,
+        "round_of_32_pct": 63.02,
+        "round_of_16_pct": 27.86,
+        "quarterfinal_pct": 11.72,
+        "semifinal_pct": 3.72,
         "final_pct": 1.08,
         "champion_pct": 0.3
       },
       {
-        "team": "United States",
-        "qualified_pct": 65.08,
-        "round_of_32_pct": 65.08,
-        "round_of_16_pct": 29.9,
-        "quarterfinal_pct": 12.78,
-        "semifinal_pct": 3.06,
-        "final_pct": 1.06,
-        "champion_pct": 0.28
-      },
-      {
-        "team": "Austria",
-        "qualified_pct": 62.92,
-        "round_of_32_pct": 62.92,
-        "round_of_16_pct": 22.48,
-        "quarterfinal_pct": 9.22,
-        "semifinal_pct": 3.82,
-        "final_pct": 1.02,
+        "team": "Algeria",
+        "qualified_pct": 55.22,
+        "round_of_32_pct": 55.22,
+        "round_of_16_pct": 19.3,
+        "quarterfinal_pct": 7.38,
+        "semifinal_pct": 2.62,
+        "final_pct": 0.76,
         "champion_pct": 0.24
       },
       {
-        "team": "Algeria",
-        "qualified_pct": 58.3,
-        "round_of_32_pct": 58.3,
-        "round_of_16_pct": 19.62,
-        "quarterfinal_pct": 7.04,
-        "semifinal_pct": 2.5,
-        "final_pct": 0.62,
-        "champion_pct": 0.2
+        "team": "Jordan",
+        "qualified_pct": 51.36,
+        "round_of_32_pct": 51.36,
+        "round_of_16_pct": 17.36,
+        "quarterfinal_pct": 6.12,
+        "semifinal_pct": 2.16,
+        "final_pct": 0.68,
+        "champion_pct": 0.22
       },
       {
-        "team": "Scotland",
-        "qualified_pct": 59.06,
-        "round_of_32_pct": 59.06,
-        "round_of_16_pct": 21.4,
-        "quarterfinal_pct": 7.04,
-        "semifinal_pct": 2.4,
-        "final_pct": 0.8,
-        "champion_pct": 0.14
+        "team": "Egypt",
+        "qualified_pct": 57.8,
+        "round_of_32_pct": 57.8,
+        "round_of_16_pct": 23.96,
+        "quarterfinal_pct": 7.74,
+        "semifinal_pct": 2.02,
+        "final_pct": 0.6,
+        "champion_pct": 0.22
       },
       {
         "team": "Ivory Coast",
-        "qualified_pct": 60.64,
-        "round_of_32_pct": 60.64,
-        "round_of_16_pct": 22.04,
-        "quarterfinal_pct": 7.34,
-        "semifinal_pct": 1.96,
-        "final_pct": 0.4,
-        "champion_pct": 0.14
+        "qualified_pct": 58.48,
+        "round_of_32_pct": 58.48,
+        "round_of_16_pct": 21.84,
+        "quarterfinal_pct": 7.38,
+        "semifinal_pct": 2.52,
+        "final_pct": 0.8,
+        "champion_pct": 0.2
       },
       {
         "team": "Panama",
-        "qualified_pct": 61.56,
-        "round_of_32_pct": 61.56,
-        "round_of_16_pct": 20.28,
-        "quarterfinal_pct": 6.7,
-        "semifinal_pct": 2.1,
+        "qualified_pct": 54.72,
+        "round_of_32_pct": 54.72,
+        "round_of_16_pct": 19.62,
+        "quarterfinal_pct": 6.56,
+        "semifinal_pct": 1.98,
+        "final_pct": 0.56,
+        "champion_pct": 0.2
+      },
+      {
+        "team": "Sweden",
+        "qualified_pct": 57.88,
+        "round_of_32_pct": 57.88,
+        "round_of_16_pct": 20.96,
+        "quarterfinal_pct": 7.04,
+        "semifinal_pct": 2.52,
+        "final_pct": 0.7,
+        "champion_pct": 0.16
+      },
+      {
+        "team": "Iraq",
+        "qualified_pct": 42.38,
+        "round_of_32_pct": 42.38,
+        "round_of_16_pct": 14.38,
+        "quarterfinal_pct": 4.84,
+        "semifinal_pct": 1.38,
+        "final_pct": 0.54,
+        "champion_pct": 0.14
+      },
+      {
+        "team": "Bosnia and Herzegovina",
+        "qualified_pct": 55.44,
+        "round_of_32_pct": 55.44,
+        "round_of_16_pct": 20.54,
+        "quarterfinal_pct": 6.32,
+        "semifinal_pct": 1.8,
         "final_pct": 0.52,
         "champion_pct": 0.12
       },
       {
-        "team": "New Zealand",
-        "qualified_pct": 60.7,
-        "round_of_32_pct": 60.7,
-        "round_of_16_pct": 25.84,
-        "quarterfinal_pct": 8.64,
-        "semifinal_pct": 2.02,
-        "final_pct": 0.6,
-        "champion_pct": 0.1
-      },
-      {
-        "team": "Uzbekistan",
-        "qualified_pct": 53.4,
-        "round_of_32_pct": 53.4,
-        "round_of_16_pct": 18.9,
-        "quarterfinal_pct": 7.02,
-        "semifinal_pct": 2.18,
+        "team": "Tunisia",
+        "qualified_pct": 46.04,
+        "round_of_32_pct": 46.04,
+        "round_of_16_pct": 14.24,
+        "quarterfinal_pct": 4.52,
+        "semifinal_pct": 1.5,
         "final_pct": 0.5,
-        "champion_pct": 0.1
+        "champion_pct": 0.12
       },
       {
-        "team": "Egypt",
-        "qualified_pct": 56.42,
-        "round_of_32_pct": 56.42,
-        "round_of_16_pct": 22.7,
-        "quarterfinal_pct": 7.04,
-        "semifinal_pct": 1.52,
-        "final_pct": 0.3,
-        "champion_pct": 0.1
-      },
-      {
-        "team": "Jordan",
-        "qualified_pct": 45.42,
-        "round_of_32_pct": 45.42,
-        "round_of_16_pct": 12.72,
-        "quarterfinal_pct": 3.76,
-        "semifinal_pct": 1.12,
-        "final_pct": 0.26,
+        "team": "Saudi Arabia",
+        "qualified_pct": 46.36,
+        "round_of_32_pct": 46.36,
+        "round_of_16_pct": 14.82,
+        "quarterfinal_pct": 4.86,
+        "semifinal_pct": 1.28,
+        "final_pct": 0.4,
         "champion_pct": 0.08
       },
       {
-        "team": "Czech Republic",
-        "qualified_pct": 62.68,
-        "round_of_32_pct": 62.68,
-        "round_of_16_pct": 25.58,
-        "quarterfinal_pct": 7.3,
-        "semifinal_pct": 1.5,
+        "team": "New Zealand",
+        "qualified_pct": 50.2,
+        "round_of_32_pct": 50.2,
+        "round_of_16_pct": 17.82,
+        "quarterfinal_pct": 5.56,
+        "semifinal_pct": 1.64,
         "final_pct": 0.28,
-        "champion_pct": 0.04
+        "champion_pct": 0.06
       },
       {
         "team": "DR Congo",
-        "qualified_pct": 39.22,
-        "round_of_32_pct": 39.22,
-        "round_of_16_pct": 11.38,
-        "quarterfinal_pct": 3.7,
-        "semifinal_pct": 0.98,
-        "final_pct": 0.28,
-        "champion_pct": 0.04
+        "qualified_pct": 43.04,
+        "round_of_32_pct": 43.04,
+        "round_of_16_pct": 13.44,
+        "quarterfinal_pct": 4.14,
+        "semifinal_pct": 1.08,
+        "final_pct": 0.2,
+        "champion_pct": 0.06
       },
       {
-        "team": "Sweden",
-        "qualified_pct": 47.46,
-        "round_of_32_pct": 47.46,
-        "round_of_16_pct": 12.74,
-        "quarterfinal_pct": 3.18,
-        "semifinal_pct": 0.9,
+        "team": "South Africa",
+        "qualified_pct": 43.5,
+        "round_of_32_pct": 43.5,
+        "round_of_16_pct": 14.96,
+        "quarterfinal_pct": 4.16,
+        "semifinal_pct": 0.92,
         "final_pct": 0.2,
         "champion_pct": 0.04
       },
       {
-        "team": "Iraq",
-        "qualified_pct": 34.42,
-        "round_of_32_pct": 34.42,
-        "round_of_16_pct": 9.98,
-        "quarterfinal_pct": 2.44,
-        "semifinal_pct": 0.56,
-        "final_pct": 0.06,
+        "team": "Qatar",
+        "qualified_pct": 43.78,
+        "round_of_32_pct": 43.78,
+        "round_of_16_pct": 13.72,
+        "quarterfinal_pct": 3.58,
+        "semifinal_pct": 0.64,
+        "final_pct": 0.16,
         "champion_pct": 0.04
       },
       {
-        "team": "Tunisia",
-        "qualified_pct": 44.16,
-        "round_of_32_pct": 44.16,
-        "round_of_16_pct": 11.34,
-        "quarterfinal_pct": 2.98,
-        "semifinal_pct": 0.84,
-        "final_pct": 0.12,
-        "champion_pct": 0.02
-      },
-      {
         "team": "Ghana",
-        "qualified_pct": 25.7,
-        "round_of_32_pct": 25.7,
-        "round_of_16_pct": 4.52,
-        "quarterfinal_pct": 0.88,
-        "semifinal_pct": 0.18,
-        "final_pct": 0.02,
+        "qualified_pct": 35.58,
+        "round_of_32_pct": 35.58,
+        "round_of_16_pct": 8.88,
+        "quarterfinal_pct": 2.72,
+        "semifinal_pct": 0.66,
+        "final_pct": 0.14,
         "champion_pct": 0.02
-      },
-      {
-        "team": "Bosnia and Herzegovina",
-        "qualified_pct": 46.54,
-        "round_of_32_pct": 46.54,
-        "round_of_16_pct": 11.82,
-        "quarterfinal_pct": 2.48,
-        "semifinal_pct": 0.3,
-        "final_pct": 0.06,
-        "champion_pct": 0.0
       },
       {
         "team": "Cape Verde",
-        "qualified_pct": 33.32,
-        "round_of_32_pct": 33.32,
-        "round_of_16_pct": 7.18,
-        "quarterfinal_pct": 1.4,
-        "semifinal_pct": 0.2,
-        "final_pct": 0.04,
-        "champion_pct": 0.0
-      },
-      {
-        "team": "Saudi Arabia",
-        "qualified_pct": 42.62,
-        "round_of_32_pct": 42.62,
-        "round_of_16_pct": 10.2,
-        "quarterfinal_pct": 2.52,
-        "semifinal_pct": 0.4,
-        "final_pct": 0.04,
-        "champion_pct": 0.0
-      },
-      {
-        "team": "Qatar",
-        "qualified_pct": 36.6,
-        "round_of_32_pct": 36.6,
-        "round_of_16_pct": 8.88,
-        "quarterfinal_pct": 1.36,
-        "semifinal_pct": 0.16,
-        "final_pct": 0.02,
-        "champion_pct": 0.0
-      },
-      {
-        "team": "Haiti",
-        "qualified_pct": 31.82,
-        "round_of_32_pct": 31.82,
-        "round_of_16_pct": 6.92,
-        "quarterfinal_pct": 1.44,
-        "semifinal_pct": 0.22,
-        "final_pct": 0.02,
-        "champion_pct": 0.0
-      },
-      {
-        "team": "South Africa",
-        "qualified_pct": 37.2,
-        "round_of_32_pct": 37.2,
-        "round_of_16_pct": 11.06,
-        "quarterfinal_pct": 2.04,
-        "semifinal_pct": 0.24,
-        "final_pct": 0.0,
-        "champion_pct": 0.0
+        "qualified_pct": 35.1,
+        "round_of_32_pct": 35.1,
+        "round_of_16_pct": 8.54,
+        "quarterfinal_pct": 2.36,
+        "semifinal_pct": 0.46,
+        "final_pct": 0.06,
+        "champion_pct": 0.02
       },
       {
         "team": "Curaçao",
-        "qualified_pct": 27.2,
-        "round_of_32_pct": 27.2,
-        "round_of_16_pct": 5.56,
-        "quarterfinal_pct": 0.84,
-        "semifinal_pct": 0.14,
-        "final_pct": 0.0,
+        "qualified_pct": 34.14,
+        "round_of_32_pct": 34.14,
+        "round_of_16_pct": 8.08,
+        "quarterfinal_pct": 1.6,
+        "semifinal_pct": 0.34,
+        "final_pct": 0.04,
+        "champion_pct": 0.02
+      },
+      {
+        "team": "Haiti",
+        "qualified_pct": 37.98,
+        "round_of_32_pct": 37.98,
+        "round_of_16_pct": 10.5,
+        "quarterfinal_pct": 2.94,
+        "semifinal_pct": 0.78,
+        "final_pct": 0.24,
         "champion_pct": 0.0
       }
     ]
